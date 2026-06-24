@@ -35,6 +35,13 @@ body {
     letter-spacing: 1px;
 }
 
+.navbar-toggler {
+    border: 2px solid white !important;
+}
+
+.navbar-toggler-icon {
+    filter: invert(1);
+}
 
 /* ===== MOBILE MENU ===== */
 
